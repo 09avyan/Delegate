@@ -1,0 +1,6 @@
+{
+  "name": "delegate",
+  "version": "1.0.0",
+  "description": "Opus-led delegation protocol: Opus routes work to up to 3 Sonnet/Haiku subagents, with precise briefs, exclusive file ownership, review and usage-limit awareness.",
+  "author": { "name": "Avyan" }
+}
